@@ -1,1 +1,7 @@
-week 5.
+week 5.  
+
+## reading:  
+
+## assignments  
+
+## notes:  
