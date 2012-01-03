@@ -1,1 +1,7 @@
-week 7.
+week 7.  
+
+## reading:  
+
+## assignments  
+
+## notes:  
