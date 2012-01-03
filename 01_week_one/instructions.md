@@ -1,4 +1,5 @@
-week 1. introduction to open source / web services / design / development environment
+## week 1.  
+# introduction to open source / web services / design / development environment  
 
 open source: 
 community, 
