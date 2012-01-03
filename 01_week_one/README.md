@@ -6,9 +6,9 @@
 
 
 
-## assignments  
+## assignments:  
 
-### Sign up for codeyear.com  
+Sign up for codeyear.com  
 Create a personal blog at tumblr.com  
 Create personal accounts on heroku.com  
 Create personal accounts on github.com  
