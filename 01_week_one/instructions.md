@@ -1,19 +1,12 @@
 ## week 1.  
 # introduction to open source / web services / design / development environment  
 
-open source: 
-community, 
-documentation, 
-learning,
-git & github, 
-licenses.
-
-Sign up for codeyear.com
-Create a personal blog at tumblr.com
-Create personal accounts on heroku.com
-Create personal accounts on github.com
-Fork the cpj winter-2012 repository.
-Create a personal github pages website.
+Sign up for codeyear.com  
+Create a personal blog at tumblr.com  
+Create personal accounts on heroku.com  
+Create personal accounts on github.com  
+Fork the cpj winter-2012 repository.  
+Create a personal github pages website.  
 
 web stacks:
 lamp: linux, apache, mysql, php/python
@@ -30,8 +23,7 @@ An application uses the web server to send information to a browser, uses the da
 html and css:
 Watch all the videos at dontfeartheinternet.com
 Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction
-Watch and follow along with this series:
-http://www.lynda.com/JavaScript-tutorials/Essential-Training-2011/81266-2.html
+
 
 
 *n*x, command line, and development environments:
@@ -52,4 +44,12 @@ First sprint planning meeting.
 
 using web services:
 3rd-party tools (fontsquirrel.com, for data visualization, social media, etc.)
-week 2. introduction to javascript and jquery
+
+open source: 
+community, 
+documentation, 
+learning,
+git & github, 
+licenses.
+
+
