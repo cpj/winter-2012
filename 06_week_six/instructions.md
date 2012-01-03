@@ -1,1 +1,7 @@
-week 6.
+week 6.  
+
+## reading:  
+
+## assignments  
+
+## notes:  
