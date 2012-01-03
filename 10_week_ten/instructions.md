@@ -1,1 +1,7 @@
-week 10.
+week 10.  
+
+## reading:  
+
+## assignments  
+
+## notes:  
