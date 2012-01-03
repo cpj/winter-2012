@@ -2,9 +2,18 @@
 # introduction to open source / web services / design / development environment  
 
 
-## reading:  
+## readings:  
 
+### html and css:  
+Watch all the videos at dontfeartheinternet.com  
+Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction  
 
+### development environment:  
+Read ch. 1 & 2 of http://progit.org/book/  
+
+### teamwork, leadership, & project management:  
+Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
+Read Getting Real - http://gettingreal.37signals.com/  
 
 ## assignments:  
 
@@ -29,14 +38,11 @@ programming language / framework
 
 An application uses the web server to send information to a browser, uses the database to store information, and the programming language / framework is in charge of all the logic and templating.  
 
-### html and css:  
-Watch all the videos at dontfeartheinternet.com  
-Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction  
+  
 
 
 
 ### *n*x, command line, and development environments:  
-Read ch. 1 & 2 of http://progit.org/book/  
 intro to linux and mac/unix command line.  
 development environment: vagrant, git, rvm/virtualenv/nvm/aegir+drush.  
 
