@@ -9,26 +9,26 @@
 - Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction  
 
 ### development environment:  
-Read ch. 1 & 2 of http://progit.org/book/  
-Read sections 1 through 11 of Getting Started to Vagrant. http://vagrantup.com/docs/getting-started/index.html  
+- Read ch. 1 & 2 of http://progit.org/book/  
+- Read sections 1 through 11 of Getting Started to Vagrant. http://vagrantup.com/docs/getting-started/index.html  
 
 ### teamwork, leadership, & project management:  
-Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
-Read Getting Real - http://gettingreal.37signals.com/  
+- Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
+- Read Getting Real - http://gettingreal.37signals.com/  
 
 ## assignments:  
 
 ### web services
-Sign up for codeyear.com  
-Create a personal blog at tumblr.com  
-Create personal accounts on heroku.com  
-Create personal accounts on github.com  
-Fork the cpj winter-2012 repository.  
-Create a personal github pages website.  
+- Sign up for codeyear.com  
+- Create a personal blog at tumblr.com  
+- Create personal accounts on heroku.com  
+- Create personal accounts on github.com  
+- Fork the cpj winter-2012 repository.  
+- Create a personal github pages website.  
 
 ### development environment  
-Set up a vagrant environment by following the Getting Started directions from the reading.
-Make sure to forward a port so you can view your project in the browser.
+- Set up a vagrant environment by following the Getting Started directions from the reading.
+- Make sure to forward a port so you can view your project in the browser.
 
 
 ## notes:  
