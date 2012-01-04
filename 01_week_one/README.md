@@ -3,7 +3,7 @@
 
 
 ## readings:  
-_finish readings by 10 a.m. on Friday._
+_Finish readings by 10 a.m. on Friday._
 
 ### html and css:  
 - Watch all the videos at dontfeartheinternet.com  
@@ -18,7 +18,10 @@ _finish readings by 10 a.m. on Friday._
 - Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
 - Read Getting Real - http://gettingreal.37signals.com/  
 
+
+
 ## assignments:  
+_Finish assignments by 10 a.m. on Friday._
 
 ### web services
 - Sign up for codeyear.com  
