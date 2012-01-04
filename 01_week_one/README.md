@@ -44,13 +44,14 @@ _Finish assignments by 10 a.m. on Friday._
 ## notes:  
 
 ### web stacks:  
-lamp: linux, apache, mysql, php/python  
-num: node.js, unix, mongodb  
-other variations: ruby/python/java/perl, unix/linux/windows/mac, nginx/apache  
+- lamp: linux, apache, mysql, php/python  
+- num: node.js, unix, mongodb  
+- other variations: ruby/python/java/perl, unix/linux/windows/mac, nginx/apache  
 
 ### website stacks typically break down into these components:  
-http server  
-database  
-programming language / framework  
+- operating system  
+- http server  
+- database  
+- programming language / framework  
 
 An application uses the web server to send information to a browser, uses the database to store information, and the programming language / framework is in charge of all the logic and templating.  
