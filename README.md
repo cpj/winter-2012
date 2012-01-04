@@ -1,4 +1,4 @@
-# W I N T E R  C P J  I N T E R S H I P S ! ! ! ! ! !
+# WINTER CPJ INTERSHIPS !!!!!!
 
 Hello, internshippers.
 
@@ -30,4 +30,4 @@ Hello, internshippers.
 ### Resources:
 - I'll be blogging at [cpjwebdev.tumblr.com](http://cpjwebdev.tumblr.com/).
 - [This github repo](http://github.com/cpj/winter-2012), of course, will continue to be an important resource.
-
+- You'll be making a list of resources as you go and storing them in the wiki for this github repo.
