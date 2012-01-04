@@ -18,3 +18,6 @@ Hello, internshippers.
 - Store all of your work for that week in the folder with your name on it.  
 - Submit your assigment for the week by submitting a pull request to this repository.  
   - For help with submitting pull requests, read github's [Send Pull Requests help page](http://help.github.com/send-pull-requests/).
+
+
+### For turning in group projects:
