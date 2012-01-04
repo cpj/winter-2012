@@ -8,6 +8,7 @@ _Finish readings by 10 a.m., Monday of week 2._
 ### html and css:  
 - Watch all the videos at dontfeartheinternet.com  
 - Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction  
+- Read the full description of the Skeleton CSS framework at [getskeleton.com](http://www.getskeleton.com/).
 
 ### development environment:  
 - Watch and follow along with the intro and first 3 chapters of Unix for Mac OS X Users from lynda.com. http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html
