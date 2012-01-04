@@ -3,7 +3,7 @@
 
 
 ## readings:  
-_Finish readings by 10 a.m. on Friday._
+_Finish readings by 10 a.m., Monday of week 2._
 
 ### html and css:  
 - Watch all the videos at dontfeartheinternet.com  
@@ -21,7 +21,7 @@ _Finish readings by 10 a.m. on Friday._
 
 
 ## assignments:  
-_Finish assignments by 10 a.m. on Friday._
+_Finish assignments by 10 a.m., Monday of week 2._
 
 ### web services
 - Sign up for codeyear.com  
