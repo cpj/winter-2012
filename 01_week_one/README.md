@@ -15,7 +15,7 @@ _Finish readings by 10 a.m., Monday of week 2._
 - Read sections 1 through 11 of Getting Started with Vagrant. http://vagrantup.com/docs/getting-started/index.html  
 
 ### teamwork, leadership, & project management:  
-- Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
+- Read the ThoughtBot Playbook - http://gettingreal.37signals.com/toc.php  
 - Read Getting Real - http://gettingreal.37signals.com/  
 
 
