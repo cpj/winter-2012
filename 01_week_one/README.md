@@ -3,6 +3,7 @@
 
 
 ## readings:  
+_finish readings by 10 a.m. on Friday._
 
 ### html and css:  
 - Watch all the videos at dontfeartheinternet.com  
@@ -11,7 +12,7 @@
 ### development environment:  
 - Watch and follow along with the intro and first 3 chapters of Unix for Mac OS X Users from lynda.com. http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html
 - Read ch. 1 & 2 of http://progit.org/book/  
-- Read sections 1 through 11 of Getting Started to Vagrant. http://vagrantup.com/docs/getting-started/index.html  
+- Read sections 1 through 11 of Getting Started with Vagrant. http://vagrantup.com/docs/getting-started/index.html  
 
 ### teamwork, leadership, & project management:  
 - Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
@@ -28,9 +29,14 @@
 - Create a personal github pages website.  
 
 ### development environment  
-- Set up a vagrant environment by following the Getting Started directions from the reading.
+- Set up a vagrant environment in the 01_week_one folder of the winter 2012 repository by following the Getting Started directions from the reading.
 - Make sure to forward a port so you can view your project in the browser.
+- set up the winter 2012
 
+
+### project / agile development / teamwork  
+- Decide on first project.  
+- First sprint planning meeting.  
 
 ## notes:  
 
@@ -50,20 +56,13 @@ An application uses the web server to send information to a browser, uses the da
 
 
 
-### *n*x, command line, and development environments:  
 intro to linux and mac/unix command line.  
 development environment: vagrant, git, rvm/virtualenv/nvm/aegir+drush.  
 
-### design & prototyping:  
-fireworks + illustrator from lynda.com.  
-wireframing reading and exercise - wireframe a wiki based on:  
-dentonwiki.com, wikipedia.com, daviswiki.com  
 
-### teamwork, leadership, & project management:  
-Read the ThoughtBot Playbook - http://playbook.thoughtbot.com/  
-Read Getting Real - http://gettingreal.37signals.com/  
-Decide on first project.  
-First sprint planning meeting.  
+
+
+
 
 ### using web services:  
 3rd-party tools (fontsquirrel.com, for data visualization, social media, etc.)  
