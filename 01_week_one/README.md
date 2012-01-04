@@ -29,7 +29,7 @@ _Finish assignments by 10 a.m., Monday of week 2._
 - Create a personal account on heroku.com  
 - Create a personal account on github.com  
 - Fork the cpj winter-2012 repository.  
-- Create a personal github pages website.  
+- Create a personal github pages website. [Use these instructions](http://pages.github.com/).  
 
 ### development environment  
 - Set up a vagrant environment in the 01_week_one folder of the winter 2012 repository by following the Getting Started directions from the reading.
