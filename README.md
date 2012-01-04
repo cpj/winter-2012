@@ -1,4 +1,4 @@
-# WINTER CPJ INTERSHIPS !!!!!!
+# W I N T E R  C P J  I N T E R S H I P S ! ! ! ! ! !
 
 Hello, internshippers.
 
@@ -27,7 +27,7 @@ Hello, internshippers.
 - You are expected to keep your personal forks of the project up-to-date by fetching from the cpj repo after others have submitted pull requests.
 
 
-
 ### Resources:
 - I'll be blogging at [cpjwebdev.tumblr.com](http://cpjwebdev.tumblr.com/).
 - [This github repo](http://github.com/cpj/winter-2012), of course, will continue to be an important resource.
+
