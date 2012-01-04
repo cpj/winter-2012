@@ -9,7 +9,7 @@
 - Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction  
 
 ### development environment:  
-- Watch and follow along with Terminal parts 1 & 2. http://teamtreehouse.com/library/archive/tools/mac-os-x-/terminal-part-1/play
+- Watch and follow along with the intro and first 3 chapters of Unix for Mac OS X Users from lynda.com. http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html
 - Read ch. 1 & 2 of http://progit.org/book/  
 - Read sections 1 through 11 of Getting Started to Vagrant. http://vagrantup.com/docs/getting-started/index.html  
 
