@@ -27,3 +27,4 @@
 
 ## final group project:  
 - due 10 a.m. on friday of week 10 
+- an unexpected challenge at 10:15 a.m.
