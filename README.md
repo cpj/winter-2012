@@ -29,4 +29,4 @@ Hello, internshippers.
 
 
 ### Resources:
-- I'll be blogging at [cpjwebdev.tumblr.com](http://cpjwebdev.tumblr.com/), and we will set it up so your tumblr blog posts will be aggregated there as well.
+- I'll be blogging at [cpjwebdev.tumblr.com](http://cpjwebdev.tumblr.com/).
