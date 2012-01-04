@@ -11,7 +11,7 @@ Hello, internshippers.
 - This git repository is where you'll store your work for the quarter.  
 - Make sure you are logged in, then click the fork button toward the top of the screen.  
 - This'll bring up a window alowing you to fork it to your personal account.  
-  - for help with forking on github see their [Fork A Repo help page](http://help.github.com/fork-a-repo/).  
+  - For help with forking on github see their [Fork A Repo help page](http://help.github.com/fork-a-repo/).  
 
 
 ### For turning in weekly assignments:  
