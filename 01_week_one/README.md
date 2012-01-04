@@ -54,27 +54,3 @@ database
 programming language / framework  
 
 An application uses the web server to send information to a browser, uses the database to store information, and the programming language / framework is in charge of all the logic and templating.  
-
-  
-
-
-
-intro to linux and mac/unix command line.  
-development environment: vagrant, git, rvm/virtualenv/nvm/aegir+drush.  
-
-
-
-
-
-
-### using web services:  
-3rd-party tools (fontsquirrel.com, for data visualization, social media, etc.)  
-
-open source:  
-community,  
-documentation,  
-learning,  
-git & github,  
-licenses.  
-
-
