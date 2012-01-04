@@ -24,11 +24,13 @@ _Finish readings by 10 a.m., Monday of week 2._
 _Finish assignments by 10 a.m., Monday of week 2._
 
 ### web services
-- Sign up for codeyear.com  
-- Create a personal blog at tumblr.com  
-- Create a personal account on heroku.com  
-- Create a personal account on github.com  
-- Fork the cpj winter-2012 repository.  
+- Sign up for [codeyear.com](http://codeyear.com)  
+- Create a personal blog at [tumblr.com](http://tumblr.com)  
+- Create a personal account on [heroku.com](http://heroku.com)  
+- Create a personal account on [github.com](http://github.com)  
+
+### git + github
+- Fork the [cpj winter-2012 repository](https://github.com/cpj/winter-2012).  
 - Create a personal github pages website. [Use these instructions](http://pages.github.com/).  
 - Work together to create a github pages website for the cpj.
 
