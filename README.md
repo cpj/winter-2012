@@ -20,4 +20,7 @@ Hello, internshippers.
   - For help with submitting pull requests, read github's [Send Pull Requests help page](http://help.github.com/send-pull-requests/).
 
 
-### For turning in group projects:
+### For turning in group projects:  
+- Each of you will fork the project repository on the cpj github profile.
+- You will submit your work by submitting pull requests throughout the quarter.
+- You are expected to keep your personal forks of the project synced by fetching from the cpj repo after others have submitted pull requests.
