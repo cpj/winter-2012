@@ -33,7 +33,7 @@ _Finish assignments by 10 a.m., Monday of week 2._
 ### git + github
 - Fork the [cpj winter-2012 repository](https://github.com/cpj/winter-2012).  
 - Create a personal github pages website. [Use these instructions](http://pages.github.com/).  
-- Work together to create a github pages website for the cpj.
+- Work together to create a github pages website for the cpj. Note that I've [gotten it started for you](https://github.com/cpj/cpj.github.com).
 
 ### development environment  
 - Set up a vagrant environment in the 01_week_one folder of the winter 2012 repository by following the Getting Started directions from the reading.
