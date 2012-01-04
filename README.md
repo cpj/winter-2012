@@ -13,6 +13,7 @@ Hello, internshippers.
 - This'll bring up a window alowing you to fork it to your personal account.  
   - for help with forking on github see their [Fork A Repo help page](http://help.github.com/fork-a-repo/).  
 
+
 ### For turning in weekly assignments:  
 - Create a folder called your name in the week's projects folder.  
 - Store all of your work for that week in the folder with your name on it.  
@@ -24,3 +25,8 @@ Hello, internshippers.
 - Each of you will fork the project repository on the cpj github profile.
 - You will submit your work by submitting pull requests throughout the quarter.
 - You are expected to keep your personal forks of the project up-to-date by fetching from the cpj repo after others have submitted pull requests.
+
+
+
+### Resources:
+- I'll be blogging at [http://cpjwebdev.tumblr.com/](http://cpjwebdev.tumblr.com/), and we will set it up so your tumblr blog posts will be aggregated there as well.
