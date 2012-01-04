@@ -9,6 +9,7 @@
 - Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction  
 
 ### development environment:  
+- Watch and follow along with Terminal parts 1 & 2. http://teamtreehouse.com/library/archive/tools/mac-os-x-/terminal-part-1/play
 - Read ch. 1 & 2 of http://progit.org/book/  
 - Read sections 1 through 11 of Getting Started to Vagrant. http://vagrantup.com/docs/getting-started/index.html  
 
