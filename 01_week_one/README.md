@@ -26,8 +26,8 @@ _Finish assignments by 10 a.m., Monday of week 2._
 ### web services
 - Sign up for codeyear.com  
 - Create a personal blog at tumblr.com  
-- Create personal accounts on heroku.com  
-- Create personal accounts on github.com  
+- Create a personal account on heroku.com  
+- Create a personal account on github.com  
 - Fork the cpj winter-2012 repository.  
 - Create a personal github pages website.  
 
