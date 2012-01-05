@@ -16,7 +16,7 @@ _(subject to revision)_
 
 ##week 3:
 - introduction to infographics.
-- each student will create 5 lolcats (or other image macro), then create 5 evergreen-focused image macros.
+- each student will create image macros.
 - they'll each create a more detailed infographic using illustrator.
 - additionally, we'll more thoroughly discuss project documentation and the open source community.
 
