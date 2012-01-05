@@ -31,6 +31,7 @@ _Finish assignments by 10 a.m., Monday of week 2._
 - Create a personal account on [github.com](http://github.com)
 
 ### git + github
+- Make a practice git repository and push it to github using these instructions: [Create a Repo](http://help.github.com/create-a-repo/)
 - Follow and fork the [cpj winter-2012 repository](https://github.com/cpj/winter-2012).
 - Create a personal github pages website. [Use these instructions](http://pages.github.com/).
 - Work together to create a github pages website for the cpj. Note that I've [gotten it started for you](https://github.com/cpj/cpj.github.com).
@@ -120,4 +121,4 @@ Your personal sites will serve as your portfolios at the end of the quarter, so 
 
 An application uses the web server to send information to a browser, uses the database to store information,
 and the programming language / framework is in charge of all the logic and templating. The operating system is the
-wrapper around all of that functionality, the platform everything runs on.
+wrapper around all of that functionality, the platform that the rest of the stacks runs on.

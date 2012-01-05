@@ -18,6 +18,12 @@ http://jqfundamentals.com/
 finish reading the art of agile development if you haven't already.
 
 ## assignments:
+- sign up at [codecademy.com](http://codecademy.com).
+- complete the three available lessons
+  - http://www.codecademy.com/courses/programming-intro
+  - http://www.codecademy.com/courses/functions_in_javascript
+  - http://www.codecademy.com/courses/javascript-intro
+- make sure to add your codecadamy profile to your github pages website
 
 ## notes:
 
