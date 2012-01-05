@@ -45,12 +45,14 @@ _Finish assignments by 10 a.m., Monday of week 2._
 - Decide on first project.
 - First sprint planning meeting.
 
-## lab assignment:  
-For this week's lab each of you will submit a personal github pages website, and you'll work together to create a github pages website for the cpj.  
-The cpj site will highlight the open source projects the cpj currently uses.  
-All sites should use the skeleton css framework.  
-Don't worry about making these sites flashy and all javascripted-up. But consider making revisions, especially to your personal sites, as you learn new skills each week.  
-Your personal sites will serve as your portfolios at the end of the quarter, so update these sites to reflect all the work you've done.  
+## lab assignment:
+For this week's lab each of you will submit a personal github pages website, and you'll work together to create a github pages website for the cpj.
+The cpj site will highlight the open source projects the cpj currently uses.
+All sites should use the skeleton css framework.
+Don't worry about making these sites flashy and all javascripted-up. But consider making revisions, especially to your personal sites, as you learn new skills each week.
+Your personal sites will serve as your portfolios at the end of the quarter, so update these sites to reflect all the work you've done.
+### Make sure your personal sites have links to all your profiles on the web services you're using for the contract: github, codeschool, heroku, tumblr, etc.
+
 
 ## notes:
 

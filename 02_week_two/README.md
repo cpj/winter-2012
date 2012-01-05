@@ -3,13 +3,19 @@ javascript, jquery, and deploying projects
 
 
 ## readings:
+_Finish readings by 10 a.m., Monday of week 3._
 
 ### Watch and follow along with this series:
 http://www.lynda.com/JavaScript-tutorials/Essential-Training-2011/81266-2.html
 
+### jQuery air. Take this interactive course if you haven't already:
+http://jqueryair.com/
+
 ### read jQuery Fundamentals
 http://jqfundamentals.com/
 
+### teamwork, leadership, & project management:
+finish reading the art of agile development if you haven't already.
 
 ## assignments:
 
