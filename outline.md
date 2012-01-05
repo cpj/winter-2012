@@ -5,8 +5,8 @@ _(subject to revision)_
 - introduction to programming, maintaining code, and using web services like github.com and heroku.com
 - readings about agile management, project management.
 - students will create a basic html website using the skeleton css framework and host it using github.
-- students will create a plan for the group projects they'll be working on.
-###[detailed week one instructions](https://github.com/cpj/winter-2012/tree/master/01_week_one).
+- students will create a plan for the group projects they'll be working on.  
+###[detailed week one instructions](https://github.com/cpj/winter-2012/tree/master/weekly_instructions_and_projects/01_week_one).
 
 
 ## week 2:
@@ -15,7 +15,7 @@ _(subject to revision)_
 - students will add to the site they created the previous week, and deploy the site to heroku using the ruby framework sinatra.
 - students will begin work on their first group project.
 - design prototyping workshop.
-###[detailed week two instructions](https://github.com/cpj/winter-2012/tree/master/02_week_two)
+###[detailed week two instructions](https://github.com/cpj/winter-2012/tree/master/weekly_instructions_and_projects/02_week_two)
 
 
 ##week 3:
