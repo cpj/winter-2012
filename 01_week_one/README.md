@@ -56,6 +56,47 @@ Your personal sites will serve as your portfolios at the end of the quarter, so 
 
 ## notes:
 
+### what you'll be creating this quarter:
+- websites
+- applications
+- and really, we're going to be calling your projects apps.
+- our goal is to create small, simple apps. we'll work on making these apps work well across devices.
+
+### programming languages:
+- client-side
+  - javascript
+  - coffeescript (which is mostly a different version of javascript)
+  - java (sort of)
+  - client-side code runs in the browser
+  - it's often used to control user interaction, design, animation, etc.
+- server-side
+  - javascript (whoa, what? using projects like node.js, javascript can be run on the server.
+  - ruby
+  - python
+  - php
+  - java
+  - server-side code controls the logic of your application
+- markup
+  - html
+  - markdown
+  - xml
+  - markup isn't a programming language. whoaaaaa!
+  - markup controls the design structure of your app.
+- stylesheets
+  - css (cascading style sheets)
+  - less, stylus, sass - these are css frameworks that allow you to write simpler stylesheets. they all compile to css.
+  - stylesheets are what control the look - the _style_ - of your app.
+
+### content management systems (CMSs):
+- drupal, wordpress, joomla, etc.
+- allow users to build sites through the ui, with minimal need for editing code.
+- building a site is often a subtractive process, because the CMSs and associated modules/plugins make assumptions about what you want to do.
+
+### frameworks:
+- ruby on rails, django, express, (drupal?), play, sinatra/padrino, flask, etc.
+- require developers to write code to create the functionality.
+- an additive process.
+
 ### web stacks:
 - lamp: linux, apache, mysql, php/python
 - num: node.js, unix, mongodb
