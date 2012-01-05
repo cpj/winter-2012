@@ -2,7 +2,7 @@
 
 ### mondays:
 - 10 a.m. 15-minute meeting
-- Assignments and readings from previous week are due at 10 a.m.
+- assignments and readings from previous week are due by 10 a.m. (it would be in your best interest to finish them by the end of day on friday).
 - multimedia journalism seminar and workshop/assignment.
 
 
@@ -14,7 +14,8 @@
 
 ### wednesdays:
 - 10 a.m. 15-minute meeting
-- Development environment and project management seminar/workshop.
+- development environment and project management seminar/workshop.
+
 
 ### thursdays:
 - 10 a.m. 15-minute meeting
@@ -23,8 +24,10 @@
 
 ### fridays:
 - 10 a.m. 15-minute meeting
-- Seminar on the role of journalism on the web.
+- seminar on the role of journalism on the web.
 - write a blog post that reflects on challenges from that week and goals for the next week.
+
+
 
 ## first group project:
 - due 10 a.m. on monday of week 6
