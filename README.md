@@ -2,7 +2,7 @@
 
 Hello, internshippers.
 
-### Check out [the schedule](https://github.com/cpj/winter-2012/blob/master/schedule.md).
+### Check out [the Monday-Friday schedule](https://github.com/cpj/winter-2012/blob/master/schedule.md).
 
 ### Get a sense of the overall plan [by reading the outline](https://github.com/cpj/winter-2012/blob/master/outline.md).
 
