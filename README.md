@@ -22,6 +22,7 @@ Hello, internshippers.
 
 
 ### For turning in group projects:
+- We'll make cpj repos for each group project as we decide what they are.
 - Each of you will fork the project repository on the cpj github profile.
 - You will submit your work by submitting pull requests throughout the quarter.
 - You are expected to keep your personal forks of the project up-to-date by fetching from the cpj repo after others have submitted pull requests.

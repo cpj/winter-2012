@@ -3,7 +3,7 @@
 ### mondays:
 - 10 a.m. 15-minute meeting
 - assignments and readings from previous week are due by 10 a.m. (it would be in your best interest to finish them by the end of day on friday).
-- multimedia journalism seminar and workshop/assignment.
+- development environment and project management seminar/workshop.
 
 
 ### tuesdays:
@@ -14,7 +14,7 @@
 
 ### wednesdays:
 - 10 a.m. 15-minute meeting
-- development environment and project management seminar/workshop.
+- multimedia journalism seminar and workshop/assignment.
 
 
 ### thursdays:
