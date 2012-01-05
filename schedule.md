@@ -24,7 +24,7 @@
 
 ### fridays:
 - 10 a.m. 15-minute meeting
-- seminar on the role of journalism on the web.
+- seminar on the role of journalism on the web, and reflection on what we've covered over the week.
 - write a blog post that reflects on challenges from that week and goals for the next week.
 
 
