@@ -28,6 +28,6 @@ Hello, internshippers.
 
 
 ### Resources:
-- I'll be blogging at [cpjwebdev.tumblr.com](http://cpjwebdev.tumblr.com/).
+- I'll be blogging at [cpjwebdev.tumblr.com](http://cpjwebdev.tumblr.com/), and reblogging all the posts you do on your tumblr blogs.
 - [This github repo](http://github.com/cpj/winter-2012), of course, will continue to be an important resource.
 - You'll be making a list of resources as you go and storing them [in the wiki for this github repo](https://github.com/cpj/winter-2012/wiki).
