@@ -11,6 +11,15 @@ _Both the schedule and outline may be revised. I'll be sure to warn you if that 
 
 ## General instructions:
 
+### Create a blog on tumblr.com
+- Regular blog posts:
+  - you'll be doing 3 blog posts each week about what you're learning about agile development, programming, design, and your progress on assignments.
+  - regular blog posts should be roughly 300 words, and include photos and other media as often as possible.
+  - see the schedule for details on when to do regular blog posts.
+- Following technology and journalism
+  - in addition to the assigned blog posts, do as many tiny posts as you can that link to an article, a code or multimedia project, a well designed, or any other online content applicable to the internship.
+  - these should be short. a link and a sentence or two explaining why you're interested, or how it relates to the internship.
+
 ### Fork this repository:
 - This git repository is where you'll store your work for the quarter.
 - Make sure you are logged in, then click the fork button toward the top of the screen.
