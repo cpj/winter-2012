@@ -3,6 +3,7 @@
 ### mondays:
 - 10 a.m. 15-minute meeting
 - assignments and readings from previous week are due by 10 a.m. (it would be in your best interest to finish them by the end of day on friday).
+- the lab exercise from the previous week is due by 10 a.m.
 - development environment and project management seminar/workshop.
 
 
