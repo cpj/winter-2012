@@ -62,6 +62,15 @@ Your personal sites will serve as your portfolios at the end of the quarter, so 
 - and really, we're going to be calling your projects apps.
 - our goal is to create small, simple apps. we'll work on making these apps work well across devices.
 
+### who you'll be this quarter:
+- programmers
+- designers
+- data analysts / statisticians
+- system administrators
+- leaders / project managers
+- makers
+- journalists
+
 ### programming languages:
 - client-side
   - javascript
@@ -90,6 +99,7 @@ Your personal sites will serve as your portfolios at the end of the quarter, so 
 ### content management systems (CMSs):
 - drupal, wordpress, joomla, etc.
 - allow users to build sites through the ui, with minimal need for editing code.
+- CMSs can be installed and have most of the functionality you'll need ready.
 - building a site is often a subtractive process, because the CMSs and associated modules/plugins make assumptions about what you want to do.
 
 ### frameworks:
@@ -102,10 +112,12 @@ Your personal sites will serve as your portfolios at the end of the quarter, so 
 - num: node.js, unix, mongodb
 - other variations: ruby/python/java/perl, unix/linux/windows/mac, nginx/apache
 
-### website stacks typically break down into these components:
+### web stacks typically break down into these components:
 - operating system
 - http server
 - database
 - programming language / framework
 
-An application uses the web server to send information to a browser, uses the database to store information, and the programming language / framework is in charge of all the logic and templating.
+An application uses the web server to send information to a browser, uses the database to store information,
+and the programming language / framework is in charge of all the logic and templating. The operating system is the
+wrapper around all of that functionality, the platform everything runs on.
