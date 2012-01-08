@@ -28,7 +28,7 @@ _Finish assignments by 10 a.m., Monday of week 3._
 - make sure to add your codecadamy profile to your github pages website
 
 ## lab assignment:  
-- Create a map using leaflet that shows the locations of some important places.  
+- Create a map using leaflet.js that shows the locations of some important places.  
 - you can choose the general location and what topic you want to focus on.  
 - you'll need these files:  
   - index.html  
