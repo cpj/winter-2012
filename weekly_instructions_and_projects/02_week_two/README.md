@@ -36,8 +36,8 @@ Create a map using leaflet that shows the locations of some important places.
   - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).  
   - skeleton css framework files [download skeleton]().  
   - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
-  - include a few paragraphs as a sort of news brief describing the location and topic you chose.  
-  - 
+  - include a few paragraphs as a news brief describing the importance of the location and topic you chose.  
+
 
 ## notes:  
 
