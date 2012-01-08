@@ -27,19 +27,19 @@ _Finish assignments by 10 a.m., Monday of week 3._
   - http://www.codecademy.com/courses/javascript-intro
 - make sure to add your codecadamy profile to your github pages website
 
-## lab assignment:
-Create a map using leaflet that shows the locations of some important places.
-- you can choose the general location and what topic you want to focus on.
-- you'll need these files:
-  - index.html
-  - map.js - this will be your custom code that creates the leaflet map
-  - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).
-  - skeleton css framework files [download skeleton]().
-  - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.
-  - include a few paragraphs as a sort of news brief describing the location and topic you chose.
+## lab assignment:  
+Create a map using leaflet that shows the locations of some important places.  
+- you can choose the general location and what topic you want to focus on.  
+- you'll need these files:  
+  - index.html  
+  - map.js - this will be your custom code that creates the leaflet map.  
+  - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).  
+  - skeleton css framework files [download skeleton]().  
+  - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
+  - include a few paragraphs as a sort of news brief describing the location and topic you chose.  
   - 
 
-## notes:
+## notes:  
 
 ### design & prototyping:
 fireworks + illustrator from lynda.com.
