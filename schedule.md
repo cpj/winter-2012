@@ -1,21 +1,20 @@
 # SCHEDULE
 
 ### mondays:
-- 10 a.m. 15-minute meeting
+- 10 a.m. - 15-minute meeting
 - assignments and readings from previous week are due by 10 a.m. (it would be in your best interest to finish them by the end of day on friday).
 - the lab exercise from the previous week is due by 10 a.m.
-- development environment and project management seminar/workshop.
+- 3 p.m. - intro to technology workshop.
 
 
 ### tuesdays:
 - 10 a.m. 15-minute meeting
-- an unexpected challenge at 10:15 a.m.
 - write a blog post discussing agile development, wireframing, responsive design, or user experience.
 
 
 ### wednesdays:
 - 10 a.m. 15-minute meeting.
-- multimedia journalism seminar and workshop/assignment.
+- 3 p.m. - multimedia journalism lecture.
 
 
 ### thursdays:
@@ -25,7 +24,7 @@
 
 ### fridays:
 - 10 a.m. 15-minute meeting.
-- seminar on the role of journalism on the web, and reflection on what we've covered over the week.
+- 3 p.m. - journalism and technology seminar.
 - write a blog post that reflects on challenges from the current week and goals for the next week.
 
 

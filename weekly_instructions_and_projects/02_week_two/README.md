@@ -18,6 +18,8 @@ http://jqfundamentals.com/
 finish reading the art of agile development if you haven't already.
 
 ## assignments:
+_Finish assignments by 10 a.m., Monday of week 3._
+
 - sign up at [codecademy.com](http://codecademy.com).
 - complete the three available lessons
   - http://www.codecademy.com/courses/programming-intro
@@ -25,7 +27,19 @@ finish reading the art of agile development if you haven't already.
   - http://www.codecademy.com/courses/javascript-intro
 - make sure to add your codecadamy profile to your github pages website
 
-## notes:
+## lab assignment:  
+- Create a map using leaflet.js that shows the locations of some important places.  
+- you can choose the general location and what topic you want to focus on.  
+- you'll need these files:  
+  - index.html  
+  - map.js - this will be your custom code that creates the leaflet map.  
+  - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).  
+  - skeleton css framework files [download skeleton]().  
+  - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
+  - include a few paragraphs as a news brief describing the importance of the location and topic you chose.  
+
+
+## notes:  
 
 ### design & prototyping:
 fireworks + illustrator from lynda.com.

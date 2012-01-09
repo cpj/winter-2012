@@ -6,7 +6,7 @@
 _Finish readings by 10 a.m., Monday of week 2._
 
 ### html and css:
-- Watch all the videos at dontfeartheinternet.com
+- Watch all the videos at [dontfeartheinternet.com](http://dontfeartheinternet.com)
 - Watch and follow along with this series: http://teamtreehouse.com/library/design-foundations/html/introduction
 - Read the full description of the Skeleton CSS framework at [getskeleton.com](http://www.getskeleton.com/).
 

@@ -6,6 +6,7 @@ Hello, internshippers.
 
 ### Get a sense of the overall plan [by reading the outline](https://github.com/cpj/winter-2012/blob/master/outline.md).
 
+### Use [this wiki](https://github.com/cpj/cpj.github.com/wiki/Intro) to store tutorials, example projects, and documentation you use to help finish assignments.
 _Both the schedule and outline may be revised. I'll be sure to warn you if that happens._
 
 
