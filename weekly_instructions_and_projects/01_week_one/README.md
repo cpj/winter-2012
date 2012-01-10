@@ -11,6 +11,7 @@ _Finish readings by 10 a.m., Monday of week 2._
 - Read the full description of the Skeleton CSS framework at [getskeleton.com](http://www.getskeleton.com/).
 
 ### development environment:
+- Read the help pages at [help.github.com](http://help.github.com/mac-set-up-git/).
 - Watch and follow along with the intro and first 3 chapters of Unix for Mac OS X Users from lynda.com. http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html
 - Read ch. 1 & 2 of http://progit.org/book/
 - Read sections 1 through 11 of Getting Started with Vagrant. http://vagrantup.com/docs/getting-started/index.html
