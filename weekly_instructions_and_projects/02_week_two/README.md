@@ -37,11 +37,11 @@ _Finish assignments by 10 a.m., Monday of week 3._
   - skeleton css framework files [download skeleton]().  
   - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
   - include a few paragraphs as a news brief describing the importance of the location and topic you chose.  
-
+- install heroku on your vagrant box using "gem install heroku"
+- make sure you have a heroku account set up.
+- run "heroku keys:add" to set up ssh keys for your vagrant box on heroku.
+- create a config.ru file and paste in [the suggested config.ru contents from this tutorial](http://devcenter.heroku.com/articles/static-sites-on-heroku)
+- follow the [heroku quickstart guide](http://devcenter.heroku.com/articles/quickstart) to deploy your site.
 
 ## notes:  
 
-### design & prototyping:
-fireworks + illustrator from lynda.com.
-wireframing reading and exercise - wireframe a wiki based on:
-dentonwiki.com, wikipedia.com, daviswiki.com
