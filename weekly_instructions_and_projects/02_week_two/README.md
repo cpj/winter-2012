@@ -2,6 +2,11 @@
 javascript, jquery, and deploying projects
 
 
+###This week we start on the first group project!  
+Eric will be the team leader on this project, so he'll be responsible for organizing/guiding the work and doing most of the design prototyping.  
+Jo and Kelli will be responsible for most of the programming / development work on the project.  
+We'll decide on Friday of week one what the project will be.
+
 ## readings:
 _Finish readings by 10 a.m., Monday of week 3._
 
