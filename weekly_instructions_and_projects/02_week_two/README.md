@@ -37,6 +37,8 @@ _Finish assignments by 10 a.m., Monday of week 3._
   - skeleton css framework files [download skeleton]().  
   - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
   - include a few paragraphs as a news brief describing the importance of the location and topic you chose.  
+- make the map fill the full browser window and put any text in front of the map with a transparent background.
+  - [check this out for help on making transparent backgrounds.](http://www.css3.info/introduction-opacity-rgba/)
 - install heroku on your vagrant box using "gem install heroku"
 - make sure you have a heroku account set up.
 - run "heroku keys:add" to set up ssh keys for your vagrant box on heroku.
