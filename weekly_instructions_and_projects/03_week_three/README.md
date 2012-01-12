@@ -2,7 +2,7 @@ week 3.
 
 
 ## reading:  
-Finish readings by 10 a.m., Monday of week 4.  
+_Finish readings by 10 a.m., Monday of week 4._  
 
 read this:
 http://www.alistapart.com/articles/responsive-web-design/  
@@ -17,7 +17,7 @@ http://www.lynda.com/HTML-tutorials/Creating-an-Adaptive-Web-Site-for-Multiple-S
 If you can get started with these in week 2, that would be beneficial.  
 
 ## assignments  
-Finish assignments by 10 a.m., Monday of week 4.  
+_Finish assignments by 10 a.m., Monday of week 4._  
 
 ### a secret, unexpected challenge!  
 
