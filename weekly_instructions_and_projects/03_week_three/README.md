@@ -5,14 +5,16 @@ week 3.
 
 
 read this:
-http://www.alistapart.com/articles/responsive-web-design/
+http://www.alistapart.com/articles/responsive-web-design/  
 
-Watch and follow along with these lynda.com screencasts:
-http://www.lynda.com/Fireworks-CS4-tutorials/getting-started/671-2.html
-http://www.lynda.com/Fireworks-CS4-tutorials/essential-training/646-2.html
-http://www.lynda.com/Fireworks-CS4-tutorials/rapid-prototyping/739-2.html
-http://www.lynda.com/HTML-tutorials/Creating-an-Adaptive-Web-Site-for-Multiple-Screens/85083-2.html
-If you can get started with these in week 2, that would be beneficial.
+###also, read the responsive web design book i emailed to you.  
+
+Watch and follow along with these lynda.com screencasts:  
+http://www.lynda.com/Fireworks-CS4-tutorials/getting-started/671-2.html  
+http://www.lynda.com/Fireworks-CS4-tutorials/essential-training/646-2.html  
+http://www.lynda.com/Fireworks-CS4-tutorials/rapid-prototyping/739-2.html  
+http://www.lynda.com/HTML-tutorials/Creating-an-Adaptive-Web-Site-for-Multiple-Screens/85083-2.html  
+If you can get started with these in week 2, that would be beneficial.  
 
 ## assignments  
 
