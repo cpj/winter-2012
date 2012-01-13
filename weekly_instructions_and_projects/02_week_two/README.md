@@ -36,17 +36,18 @@ _Finish assignments by 10 a.m., Monday of week 3._
 *also:* do some blog posts throughout the week that are links to relevant projects, websites, blog posts, etc.  
 
 ### each of you will create a wireframe for a news website like cooperpointjournal.com.  
-each of you will create a wireframe using fireworks based on what you learned from the fireworks cs4 tutorials from lynda.com.  
-create a wireframe for the front page, a section page, and an article page, and be sure to allow for responsive design in planning the layout.  
+- each of you will create a wireframe using fireworks based on what you learned from the fireworks cs4 tutorials from lynda.com.  
+- create a wireframe for the front page, a section page, and an article page, and be sure to allow for responsive design in planning the layout.  
+- you'll need to find a bunch of stock images, videos, and text to use as your example content.  
 
 ## lab assignment   
 - turn the wireframe for the news site into html using the skeleton css framework to handle responsive design.  
 - deploy this html site to heroku.  
-- install heroku on your vagrant box using "gem install heroku"
-- make sure you have a heroku account set up. http://heroku.com
-- run "heroku keys:add" in the terminal window for your vagrant box to set up ssh keys for your vagrant box on heroku.
-- create a config.ru file and paste in [the suggested config.ru contents from this tutorial](http://devcenter.heroku.com/articles/static-sites-on-heroku)
-- follow the [heroku quickstart guide](http://devcenter.heroku.com/articles/quickstart) to deploy your site.
+- install heroku on your vagrant box using "gem install heroku"  
+- make sure you have a heroku account set up. http://heroku.com  
+- run "heroku keys:add" in the terminal window for your vagrant box to set up ssh keys for your vagrant box on heroku.  
+- create a config.ru file and paste in [the suggested config.ru contents from this tutorial](http://devcenter.heroku.com/articles/static-sites-on-heroku).  
+- follow the [heroku quickstart guide](http://devcenter.heroku.com/articles/quickstart) to deploy your site.  
 
 ## notes:  
 
