@@ -11,9 +11,8 @@ _(subject to revision)_
 
 
 ## week 2:
-- javascript programming.
-- using jQuery and jQuery plugins.
-- students will add to the site they created the previous week, and deploy the site to heroku using the ruby framework sinatra.
+- introduction to deploying sites to heroku.
+- web design work that builds on the previous week, including responsive design and design prototyping using fireworks.
 - students will begin work on their first group project.
 - design prototyping workshop.
 
@@ -21,16 +20,18 @@ _(subject to revision)_
 
 
 ##week 3:
-- introduction to infographics.
-- each student will create image macros.
-- they'll each create a more detailed infographic using illustrator.
-- additionally, we'll more thoroughly discuss project documentation and the open source community.
+- using jQuery and jQuery plugins.  
+- introduction to open source web mapping.  
+- javascript programming.  
+- additionally, we'll more thoroughly discuss project documentation and the open source community.  
 
-###detailed instructions coming soon!
+###[detailed week three instructions](https://github.com/cpj/winter-2012/blob/master/weekly_instructions_and_projects/03_week_three/README.md)  
 
 
 ##week 4:
 - first group project due at end of week.
+- introduction to infographics.
+- each student will create a detailed infographic using illustrator.
 - interactive infographics with javascript
 - students will build on their javascript and infographic learning from previous weeks.
 
