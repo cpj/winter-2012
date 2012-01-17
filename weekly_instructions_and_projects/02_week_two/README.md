@@ -45,8 +45,12 @@ _Finish assignments by 10 a.m., Monday of week 3._
 - deploy this html site to heroku.  
 - install heroku on your vagrant box using "gem install heroku"  
 - make sure you have a heroku account set up. http://heroku.com  
-- enter 'heroku login'. if it doesn't grab your ssh key, do the command on the following line:
+- enter "heroku login". if it doesn't grab your ssh key, do the command on the following line:
   - run "heroku keys:add" in the terminal window for your vagrant box to set up ssh keys for your vagrant box on heroku.  
+- run "heroku create" in your project directory.  
+- run "git remote"
+  - if it doesn't show heroku as one of the remote repositories, run "git remote add heroku <the name of the git@heroku repository created from running heroku create>".  
+- run "git add .", "git commit -m 'your message'", and "git push heroku master" to add and commit files and push them to heroku.   
 - create a config.ru file and paste in [the suggested config.ru contents from this tutorial](http://devcenter.heroku.com/articles/static-sites-on-heroku).  
 - follow the [heroku quickstart guide](http://devcenter.heroku.com/articles/quickstart) to deploy your site.  
 
