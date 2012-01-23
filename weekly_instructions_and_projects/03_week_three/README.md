@@ -1,20 +1,31 @@
-week 3.
+###week 3.
 
 
-## reading:  
-_Finish readings by 10 a.m., Monday of week 4._   
+###This week we continue to work on the first group project!  
+Eric will be the team leader on this project, so he'll be responsible for organizing/guiding the work and doing most of the design prototyping.  
+Jo and Kelli will be responsible for most of the programming / development work on the project.  
+The project will be a complete redesign of the cpj organization site. this is a great first project!  
 
-### Watch and follow along with this series:
-http://www.lynda.com/JavaScript-tutorials/Essential-Training-2011/81266-2.html
 
-### jQuery air. Take this interactive course if you haven't already:
-http://jqueryair.com/
+## readings:
+_Finish readings by 10 a.m., Monday of week 4._
 
-### read jQuery Fundamentals
-http://jqfundamentals.com/
+###read this: http://www.alistapart.com/articles/responsive-web-design/  
 
-## assignments  
-_Finish assignments by 10 a.m., Monday of week 4._  
+###also, read the responsive web design book i emailed to you.  
+
+### Watch and follow along with these lynda.com screencasts:  
+- http://www.lynda.com/Fireworks-CS4-tutorials/getting-started/671-2.html  
+- http://www.lynda.com/Fireworks-CS4-tutorials/essential-training/646-2.html  
+- http://www.lynda.com/Fireworks-CS4-tutorials/rapid-prototyping/739-2.html  
+- http://www.lynda.com/HTML-tutorials/Creating-an-Adaptive-Web-Site-for-Multiple-Screens/85083-2.html  
+
+### finish week one readings if you haven't already.
+
+
+
+## assignments:
+_Finish assignments by 10 a.m., Monday of week 4._
 
 ### a secret, unexpected challenge!  
 
@@ -25,17 +36,23 @@ _Finish assignments by 10 a.m., Monday of week 4._
 
 *also:* do some blog posts throughout the week that are links to relevant projects, websites, blog posts, etc.  
 
-## lab assignment:  
-- Create a map using leaflet.js that shows the locations of some important places.  
-- you can choose the general location and what topic you want to focus on.  
-- you'll need these files:  
-  - index.html  
-  - map.js - this will be your custom code that creates the leaflet map.  
-  - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).  
-  - skeleton css framework files [download skeleton]().  
-  - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
-  - include a few paragraphs as a news brief describing the importance of the location and topic you chose.  
-- make the map fill the full browser window and put any text in front of the map with a transparent background.
-  - [check this out for help on making transparent backgrounds.](http://www.css3.info/introduction-opacity-rgba/)
+### each of you will create a wireframe for a news website like cooperpointjournal.com.  
+- each of you will create a wireframe using fireworks based on what you learned from the fireworks cs4 tutorials from lynda.com.  
+- create a wireframe for the front page, a section page, and an article page, and be sure to allow for responsive design in planning the layout.  
+- you'll need to find a bunch of stock images, videos, and text to use as your example content.  
+
+## lab assignment   
+- turn the wireframe for the news site into html using the skeleton css framework to handle responsive design.  
+- deploy this html site to heroku.  
+- install heroku on your vagrant box using "gem install heroku"  
+- make sure you have a heroku account set up. http://heroku.com  
+- enter "heroku login". if it doesn't grab your ssh key, do the command on the following line:
+  - run "heroku keys:add" in the terminal window for your vagrant box to set up ssh keys for your vagrant box on heroku.  
+- run "heroku create" in your project directory.  
+- run "git remote"
+  - if it doesn't show heroku as one of the remote repositories, run "git remote add heroku <the name of the git@heroku repository created from running heroku create>".  
+- run "git add .", "git commit -m 'your message'", and "git push heroku master" to add and commit files and push them to heroku.   
+- create a config.ru file and paste in [the suggested config.ru contents from this tutorial](http://devcenter.heroku.com/articles/static-sites-on-heroku).  
+- follow the [heroku quickstart guide](http://devcenter.heroku.com/articles/quickstart) to deploy your site.  
 
 ## notes:  
