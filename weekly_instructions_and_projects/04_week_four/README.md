@@ -1,7 +1,7 @@
 week 4.
 
 ## reading:  
-_Finish readings by 10 a.m., Monday of week 4._   
+_Finish readings by 10 a.m., Monday of week 5._   
 
 ### Watch and follow along with this series:
 http://www.lynda.com/JavaScript-tutorials/Essential-Training-2011/81266-2.html
@@ -13,7 +13,7 @@ http://jqueryair.com/
 http://jqfundamentals.com/
 
 ## assignments  
-_Finish assignments by 10 a.m., Monday of week 4._  
+_Finish assignments by 10 a.m., Monday of week 5._  
 
 ### a secret, unexpected challenge!  
 
