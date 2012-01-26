@@ -39,10 +39,10 @@ _Finish assignments by 10 a.m., Monday of week 5._
 *also:* do some blog posts throughout the week that are links to relevant projects, websites, blog posts, etc.  
 
 ## lab assignment:  
-### work together to identify which cheatsheets for programming, web development, and command line work for which you should create poster-sized infographics.
-- create at least 3-5 different cheatsheets.
-- design them in illustrator.
-- think about these giant cheatsheets as infographics. decide what's most important. what info should be at the top? what should be in a big font? what info could be best described using images?
-- 
+### work together to identify which "cheatsheets" for journalism, critical-thinking, programming, web development, and command line work for which you should create poster-sized infographics.
+- create at least 6 different cheatsheets.  two for each of you.  
+- design them in illustrator.  
+- think about these giant cheatsheets as infographics. decide what's most important. what info should be at the top? what should be in a big font? what info could be best described using images?  
+- identify where in the office each cheatsheet will hang, and design the poster for the space.  
 
 ## notes:
