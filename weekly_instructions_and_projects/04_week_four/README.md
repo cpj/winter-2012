@@ -11,20 +11,25 @@ _Finish readings by 10 a.m., Monday of week 5._
 ### FOLLOW THIS TUTORIAL:
 - http://vector.tutsplus.com/tutorials/designing/how-to-create-outstanding-modern-infographics/  
 
+### FOLLOW THESE LYNDA.COM TUTORIALS:
+- http://www.lynda.com/Infographics-tutorials/Infographics-Planning-and-Wireframing/89311-2.html  
+- http://www.lynda.com/Infographics-tutorials/Infographics-Visualizing-Relationships/89312-2.html  
+
 ## assignments  
 _Finish assignments by 10 a.m., Monday of week 5._  
 
-### a secret, unexpected challenge!  
+### A SECRET, UNEXPECTED CHALLENGE!  
 
-### create an infographic using illustrator.  
+### POST ON YOUR BLOG THE INFOGRAPHIC YOU CREATED BY FOLLOWING THE TUTORIAL IN THE READING.
+
+### CREATE A NEW INFOGRAPHIC IN ILLUSTRATOR BASED ON WHAT YOU LEARNED FROM TUTORIALS.  
 - come up with an idea.  
 - sketch out your infographic on paper.  
 - design it using illustrator.  
 
 ### find some awesome infographics
 - each of you find at least 3 infographics that are particularly effective in conveying info.
-- write a blog post (in addition to the posts you're already doing) that shows an image of each infographic, a description of why you think it is important, and a list of ideas these infographics give you for making your own infographics.  
-
+- write a blog post (in addition to the posts you're already doing) that shows an image of each infographic, a description of why you think it is important, and a list of ideas these infographics give you for making your own infographics.    
 
 ### remember to do blog posts!  
 1. a blog post that synthesizes what you've learned about design, web development, leadership, etc. --whatever you're reading and working on each week.  
