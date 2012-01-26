@@ -12,9 +12,11 @@ week 6.
 - catch up with blog posts and add nav links from blog to student projects.  
 - revise design of tumblr blogs to use skeleton.  
 - revise first project to use ruby/sinatra or node/express.
-- do a quick cms/framework "boot camp" where we install the following projects:
-  - wordpress
-  - drupal
-  - ruby on rails / with a cms and rails admin
-  - django / django-cms
-  - node / calipso cms
+- do a quick cms/framework "boot camp" where we install the following projects:  
+  - wordpress  
+  - drupal  
+  - ruby on rails / with a cms and rails admin  
+  - django / django-cms  
+  - node / calipso cms  
+  - sinatra -- show how to use it for simple or static projects  
+  - node.js/express -- show how to use it for simple or static projects  
