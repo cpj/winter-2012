@@ -36,7 +36,7 @@ assignments from week 2 extended by one week.
 - interactive infographics with javascript
 - students will build on their javascript and infographic learning from previous weeks.
 
-###detailed instructions coming soon!
+###[detailed week four instructions](https://github.com/cpj/winter-2012/tree/master/weekly_instructions_and_projects/04_week_four)
 
 
 ##week 5:
