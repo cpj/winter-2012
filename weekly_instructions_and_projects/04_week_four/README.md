@@ -3,7 +3,13 @@ week 4.
 ## reading:  
 _Finish readings by 10 a.m., Monday of week 5._   
 
+### WATCH THESE TED TALKS:
+- http://www.ted.com/talks/lang/en/david_mccandless_the_beauty_of_data_visualization.html  
+- http://www.ted.com/talks/hans_rosling_on_global_population_growth.html  
+- http://www.ted.com/talks/hans_rosling_asia_s_rise_how_and_when.html  
 
+### FOLLOW THIS TUTORIAL:
+- http://vector.tutsplus.com/tutorials/designing/how-to-create-outstanding-modern-infographics/  
 
 ## assignments  
 _Finish assignments by 10 a.m., Monday of week 5._  
