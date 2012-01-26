@@ -47,7 +47,7 @@ assignments from week 2 extended by one week.
 - javascript programming.  
 - additionally, we'll more thoroughly discuss project documentation and the open source community. 
 
-###detailed instructions coming soon!
+###[detailed week five instructions](https://github.com/cpj/winter-2012/tree/master/weekly_instructions_and_projects/05_week_five)
 
 
 ##week 6:
