@@ -26,5 +26,16 @@ http://jqfundamentals.com/
 - github.com is a common place to find this kind of stuff, and there are many blogs that daily discuss new js projects.  
 
 
+## lab assignment:  
+### each of you will add a map to your username.github.com sites.  
+- Create a map using leaflet.js that shows the locations of some important places.  
+- you can choose the general location and what topic you want to focus on.  
+- you'll need these files:  
+  - index.html  
+  - map.js - this will be your custom code that creates the leaflet map.  
+  - leaflet dependency files. [download leaflet](http://leaflet.cloudmade.com/).  
+  - follow [this tutorial](http://leaflet.cloudmade.com/examples/quick-start.html) to get started.  
+  - include a few paragraphs as a news brief describing the importance of the location and topic you chose.  
+ 
 
 ## notes:  
