@@ -1,3 +1,5 @@
+huh.
+
 ###Here's a basic rundown of week-to-week plan:
 _(subject to revision)_
 
