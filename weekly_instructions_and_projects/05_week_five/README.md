@@ -14,6 +14,11 @@ http://jqfundamentals.com/
 
 ## assignments  
 
+### GET CAUGHT UP ON CODEYEAR.COM!!!
+Do all the assignments they've released up to this week.  
+Put a link to your codecademy profile on your github page.  
+
+
 ### CHOOSE 3 JAVASCRIPT/JQUERY PROJECTS THAT YOU THINK ARE REALLY COOL AND USEFUL AND COMPILE INFORMATION ABOUT THEM.  
 - each of you will decide on 3 different js projects that are open source and that you think are useful.  
   - find and complete a 'hello world' tutorial for each project.  
