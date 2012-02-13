@@ -4,6 +4,9 @@ week 6.
 
 ## assignments  
 
+# CONTINUE THIS WORK:
+
+
 ## notes:  
 
 ###this week we'll do some mid-term stuff.  
