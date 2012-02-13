@@ -22,6 +22,13 @@ Put a link to your codecademy profile on your github page.
 - github.com is a common place to find this kind of stuff, and there are many blogs that daily discuss new js projects.  
 
 
+### WORK THROUGH THESE D3.JS TUTORIALS:  
+- [Three Little Circles](http://mbostock.github.com/d3/tutorial/circle.html)
+  - Run all the interactive code examples. Try entering new code, and firgure out how things work.
+- [A Bar Chart, Part 1](http://mbostock.github.com/d3/tutorial/bar-1.html)
+  - you'll need to download [d3.js](https://raw.github.com/mbostock/d3/master/d3.js), and set up a script link to it in the html file where you're working on the tutorial.  
+  - make sure to upload the html file of your bar chart to your github pages site.  
+
 ## notes:  
 
 ###this week we'll do some mid-term stuff.  
