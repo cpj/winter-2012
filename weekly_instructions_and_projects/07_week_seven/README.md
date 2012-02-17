@@ -1,17 +1,19 @@
 week 7.  
 
 ## reading:  
+_complete reading by monday, 10 a.m., week 8._  
+
+- Drupal 7 by David Mercer
+
 
 ## assignments  
 
+- stay caught up with codecadamy.com!!!  
+- install drush in a vagrant box.  
+- install drupal to a vagrant box using the instructions in the book.  
+- use drush to install modules like [views](http://drupal.org/project/views).
+- install wordpress in the same vagrant box using these instructions. 
+- create a new vagrant box
+
+
 ## notes:  
-- revise design of tumblr blogs to use skeleton.  
-- revise first project to use ruby/sinatra or node/express.
-- do a quick cms/framework "boot camp" where we install the following projects:  
-  - wordpress  
-  - drupal  
-  - ruby on rails / with a cms and rails admin  
-  - django / django-cms  
-  - node / calipso cms  
-  - sinatra -- show how to use it for simple or static projects  
-  - node.js/express -- show how to use it for simple or static projects  
