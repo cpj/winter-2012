@@ -32,5 +32,5 @@ Put a link to your codecademy profile on your github page.
 ## notes:  
 
 ###this week we'll do some mid-term stuff.  
-- update username.github.com sites to include work done over the past week.  
+- update username.github.com sites to include work done over the past weeks.  
 - catch up with blog posts and add nav links from blog to student projects.  
