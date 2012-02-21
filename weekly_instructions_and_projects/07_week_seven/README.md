@@ -21,6 +21,17 @@ _complete reading by monday, 10 a.m., week 8._
 - create a new vagrant box using [aegir-up](http://drupal.org/project/aegir-up).  
   - note: you _might_ probably need to [apply this patch](http://drupal.org/node/1444634#comment-5617364).  
 - experiment with using aegir.  
+- 
+
+
+### REMEMBER TO DO BLOG POSTS!  
+# This week, make this blog post about 1000 words:  
+1. a blog post that synthesizes what you've learned about design, web development, leadership, etc. --whatever you're reading and working on each week.  
+
+###These blog posts shouls be like normal:  
+2. a blog post that details your progress with that week's lab assignment and with your work on the group project that week. make sure to include screenshots and links to your projects.  
+3. a blog post (posted on friday) that lists everything you've done that week, and that discusses the challenges you've faced over the week. this should be a more reflective post, similar to the weekly learning evals.  
+
 
 
 ## notes:  
