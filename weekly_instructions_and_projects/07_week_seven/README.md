@@ -21,7 +21,6 @@ _complete reading by monday, 10 a.m., week 8._
 - create a new vagrant box using [aegir-up](http://drupal.org/project/aegir-up).  
   - note: you _might_ probably need to [apply this patch](http://drupal.org/node/1444634#comment-5617364).  
 - experiment with using aegir.  
-- 
 
 
 ### REMEMBER TO DO BLOG POSTS!  
