@@ -26,7 +26,7 @@ _complete reading by monday, 10 a.m., week 8._
 
 ### REMEMBER TO DO BLOG POSTS!  
 # This week, make this blog post about 1000 words:  
-1. a blog post that synthesizes what you've learned about design, web development, leadership, etc. --whatever you're reading and working on each week.  
+1. a blog post that synthesizes the assignments and the readings. Expecially focus on the ideas in The Design of Everyday Things and how to apply that to web development.  
 
 ###These blog posts shouls be like normal:  
 2. a blog post that details your progress with that week's lab assignment and with your work on the group project that week. make sure to include screenshots and links to your projects.  
