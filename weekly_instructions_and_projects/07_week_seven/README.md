@@ -11,7 +11,7 @@ _complete reading by monday, 10 a.m., week 8._
 
 ###Javascript / Processing:  
 - use [sketchpad.cc](http://sketchpad.cc/) to use processing.js to create animations and interactive graphics:
-  - write the sketch from the Basic Syntax instructions into a sketchpad.cc sketch. make changes to the code and see how that changes the animation.  
+  - write the sketch from [the Basic Syntax instructions](http://processingjs.org/learning/) into a sketchpad.cc sketch. make changes to the code and see how that changes the animation.  
   - follow [this tutorial](http://blog.blprnt.com/blog/blprnt/tutorial-processing-javascript-and-data-visualization#idc-container) using sketchpad.cc.
 - stay caught up with codecadamy.com!!!  
 
