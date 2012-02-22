@@ -5,7 +5,7 @@ _complete reading by monday, 10 a.m., week 8._
 
 - Read Parts 1, 2 and 3 of The Definitive Guide to Drupal 7.
 - Read Chapters 1, 2 and 3 of The Design of Everyday Things.
-- Read about processing.js at [processingjs.com](http://processingjs.com)
+- Read about processing at [processing.org](http://processing.org) and [processingjs.com](http://processingjs.com) 
 
 ## assignments  
 
