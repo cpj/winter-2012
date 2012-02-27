@@ -16,6 +16,7 @@ _complete reading by monday, 10 a.m., week 9._
 
 
 ### REMEMBER TO DO BLOG POSTS!  
+_complete blog posts by monday, 10 a.m., week 9._  
 # a blog post of about 1000 words:  
 1. a blog post that synthesizes the assignments and the readings. Expecially focus on the ideas in The Design of Everyday Things and how to apply that to web development.  
 
