@@ -1,4 +1,4 @@
-week 8.  
+week 9.  
 
 ## reading:  
 _complete reading by monday, 10 a.m., week 10._  
