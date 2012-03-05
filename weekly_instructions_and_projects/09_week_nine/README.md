@@ -5,7 +5,6 @@ _complete reading by monday, 10 a.m., week 10._
 
 - Read Design and Prototyping for Drupal.
   - (Last week I accidentally told you to read _Parts_ 1, 2, and 3, but meant _Chapters_.
-- 
 - Read Chapters 6 and 7 of The Design of Everyday Things.
 
 ## assignments  
